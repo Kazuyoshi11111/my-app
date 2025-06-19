@@ -41,8 +41,8 @@ export default function Home() {
             TODOアプリ
           </h1>
            <h2 className="text-1xl text-black text-center">
-            タスクの管理と整理を簡単に
-          </h2>
+            タスクの管理を簡単に
+           </h2>
         </div>
       </div>
 
